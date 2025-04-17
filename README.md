@@ -7,8 +7,7 @@ This is the frontend for an e-commerce platform dedicated to skincare products, 
 - **Responsive Design**: Fully optimized for both desktop and mobile screens.
 - **Hero Section**: Eye-catching introduction with a soft-themed background and engaging CTA.
 - **Product Catalog**: Grid layout showcasing various skincare items with images, names, and prices.
-- **Shopping Cart**: Users can add and remove products from their cart.
-- **Checkout Page**: Basic layout for placing orders and finalizing the purchase process.
+
 
 ---
 
