@@ -1,6 +1,6 @@
-# Bloomelle - E-commerce Frontend
+E-commerce Frontend
 
-Welcome to **Bloomelle**, a beautiful skincare e-commerce website. This is the frontend for an e-commerce platform dedicated to skincare products. The website allows users to browse and purchase a variety of skincare products with an easy-to-use interface.
+ This is the frontend for an e-commerce platform dedicated to skincare products. The website allows users to browse and purchase a variety of skincare products with an easy-to-use interface.
 
 ## Features
 
